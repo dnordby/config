@@ -4,7 +4,6 @@
     "es6": true
   },
   "extends": [
-    "plugin:vue/essential",
     "airbnb-base"
   ],
   "globals": {
@@ -15,9 +14,7 @@
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
-  "plugins": [
-    "vue"
-  ],
+  "plugins": [],
   "rules": {
     "babel/no-invalid-this": 0,
     "import/no-anonymous-default-export": 0,
