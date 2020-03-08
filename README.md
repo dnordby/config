@@ -2,6 +2,8 @@
 
 This is a lightweight package, designed to evolve over time as I find rules and tools that I like more, meant to standardize the way I code.
 
+---
+
 ### ESlint
 
 JavaScript rules are based off of Airbnb's `airbnb-base`, with a few custom rules that I like to change, or suppress.
