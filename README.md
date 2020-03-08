@@ -16,11 +16,12 @@ Utilizes Stylelint's basic build, but assumes and extends `stylelint-config-sass
 
 Always ignore `node_modules`.
 
-### `package.json`
+### package.json
 
 Most basic file possible to support above.
 
+---
 
-### To do:
+##### To do:
 
 I plan to add webpack and babel config files in the future. Babel will be utilized to transcompiler ES6, and webpack to provide a comprehensive build package that takes linted and transcompiled JS, linted SCSS, and other files, minify them as appropriate, and build them to a `dist/` directory.
